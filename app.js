@@ -14,7 +14,7 @@ app.use((req, res, next) => {
     <div class="ri-t">
         <h1>Devsapp</h1>
         <h2>这是一个 Connect 项目</h2>
-        <span>自豪的通过Serverless Devs进行部署</span>
+        <span>正在进行s2i测试</span>
         <br/>
         <p>您也可以快速体验： <br/>
             • 下载Serverless Devs工具：npm install @serverless-devs/s<br/>
